@@ -37,6 +37,7 @@ KANUNGO, T; et al; An efficient K-means clustering algorithm: analysis and
 implementation, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 24, No. 7, 2002.
 
 <hr>
+
 Autora:
 
 [Fernanda Lima](https://www.linkedin.com/in/limasfernanda/)
